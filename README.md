@@ -1,2 +1,2 @@
-# GetOutOfControlInDTYZ
+# GetOutOfComputerControler
 截至2023年，这款工具能帮你摆脱山西省大同市第一中学集团校信息技术课的控制。
